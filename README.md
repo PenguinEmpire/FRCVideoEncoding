@@ -1,9 +1,9 @@
 # FRCVideoEncoding
 
 # Network Config
-Driver's Station IP: 10.25.51.20
+Windows 10 Driver's Station IP: 10.25.51.20
 
-TX1's IP: 10.25.51.15
+Linux4Tegra (Ubuntu) TX1's IP: 10.25.51.15
 
 Ports 5803 and 5804
 
